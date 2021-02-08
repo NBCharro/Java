@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee id="111">
+    <firstName>Pedro</firstName>
+    <lastName>Ruiz</lastName>
+    <location>Madrid</location>
+  </employee>
+  <employee id="112">
+    <firstName>Alba</firstName>
+    <lastName>Navarro</lastName>
+    <location>Bilbao</location>
+  </employee>
+  <employee id="113">
+    <firstName>Teresa</firstName>
+    <lastName>Alvarez</lastName>
+    <location>Barcelona</location>
+  </employee>
+  <employee id="114">
+    <firstName>Alex</firstName>
+    <lastName>Alvarez</lastName>
+    <location>Barcelona</location>
+  </employee>
+  <employee id="115">
+    <firstName>Alex</firstName>
+    <lastName>Navarro</lastName>
+    <location>Barcelona</location>
+  </employee>
+</employees>
